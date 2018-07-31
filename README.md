@@ -85,3 +85,9 @@ Sample Response
 ```
 #### **Sample App**
 ###### ***Coming Soon***
+
+References: [EOSIO](https://developers.eos.io/eosio-nodeos/docs)
+
+Contributors:
+[Crissi](https://github.com/crissiaccubits)
+[Goutham](https://github.com/goutham-ab)
