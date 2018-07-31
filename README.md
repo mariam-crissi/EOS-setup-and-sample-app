@@ -1,1 +1,1 @@
-# EOS-setup-and-sample-app
+# EOS setup and sample app
