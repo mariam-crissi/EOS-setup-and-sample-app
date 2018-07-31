@@ -89,5 +89,5 @@ Sample Response
 References: [EOSIO](https://developers.eos.io/eosio-nodeos/docs)
 
 Contributors:
-[Crissi](https://github.com/crissiaccubits)
-[Goutham](https://github.com/goutham-ab)
+- [Crissi](https://github.com/crissiaccubits)
+- [Goutham](https://github.com/goutham-ab)
